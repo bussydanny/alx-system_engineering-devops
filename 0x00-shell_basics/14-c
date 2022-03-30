@@ -1,1 +1,2 @@
 #!/bin/bash echo cp -R -u -p $(pwd)/*.html #(pwd)/../
+cp -R -u -p $(pwd)/*.html $(pwd)/../
