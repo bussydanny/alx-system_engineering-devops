@@ -1,6 +1,12 @@
 #!/bin/bash
+echo ".:"
 ls -la
+
+echo -e "\n"
+echo "..:"
 cd ..
 ls -la
+echo -e "\n"
+echo "/boot:"
 cd /boot
 ls -la
