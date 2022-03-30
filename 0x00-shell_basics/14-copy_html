@@ -1,2 +1,1 @@
-#!/bin/bash
-./copyhmtl
+cp -R -u -p $(pwd)/*.html $(pwd)/../
